@@ -1,12 +1,12 @@
-#📉 Customer Churn Analysis (Telecom)
+# 📉 Customer Churn Analysis (Telecom)
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project is my first learning case study in Power BI, completed as part of a DataCamp course: Analyzing Customer Churn.
 
 The dataset analyzes telecom customers to understand who churns and why, translating data insights into actionable business ideas.
 
-📊 Dashboard Pages
+### 📊 Dashboard Pages
 
 Overview
 
@@ -18,7 +18,7 @@ Extra Charges
 
 Insights
 
-🔑 Key Insights
+### 🔑 Key Insights
 
 Overall churn rate: ~27%
 
@@ -34,11 +34,11 @@ Service dissatisfaction
 
 Customers subscribed to unlimited data plans or international calling showed higher churn
 
-💡 Interesting Insight
+### 💡 Interesting Insight
 
 Some customers pay for international calls but never use them, which may lead to perceived wasted spending.
 
-👉 A customer-centric strategy could include:
+### 👉 A customer-centric strategy could include:
 
 Educating customers about their usage
 
@@ -46,7 +46,7 @@ Recommending more suitable and affordable plans
 
 This builds trust and reduces churn by showing genuine care for customer needs.
 
-🎯 Skills Gained
+### 🎯 Skills Gained
 
 Building clean, interactive dashboards in Power BI
 
@@ -56,7 +56,7 @@ Converting raw data into meaningful insights
 
 Thinking analytically about customer behavior beyond numbers
 
-🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 Power BI
 
