@@ -56,12 +56,4 @@ Converting raw data into meaningful insights
 
 Thinking analytically about customer behavior beyond numbers
 
-### 🛠 Tools & Technologies
 
-Power BI
-
-Data Modeling
-
-DAX (Basic)
-
-Data Visualization & Storytelling
