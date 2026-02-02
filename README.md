@@ -1,4 +1,5 @@
-📉 Customer Churn Analysis (Telecom)
+#📉 Customer Churn Analysis (Telecom)
+
 📌 Project Overview
 
 This project is my first learning case study in Power BI, completed as part of a DataCamp course: Analyzing Customer Churn.
@@ -8,9 +9,13 @@ The dataset analyzes telecom customers to understand who churns and why, transla
 📊 Dashboard Pages
 
 Overview
+
 Age Groups
+
 Payment and Contract
+
 Extra Charges
+
 Insights
 
 🔑 Key Insights
